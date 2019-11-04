@@ -1,0 +1,19 @@
+Name,Place,State,Country,Rank,Latitude,Longitude
+Prasadi Academy,Manbhawan,Lalitpur,Nepal,1,27.671891,85.317242
+St. Xavier College,Maitighar,Kathmandu,Nepal,2,27.693394,85.320659
+Kathmandu Model College,Bagbazar,Kathmandu,Nepal,3,27.706255,85.318870
+St. Mary Higher Secondary School,Jawalakhel,Lalitpur,Nepal,4,27.675710,85.311389
+Global College of Management,Mid Baneshwor,Kathmandu,Nepal,5,27.700249,85.338981
+Sagarmatha College,Nayabazar,Pokhara,Nepal,6,28.220217,83.989263
+Sainik Awashiya Mahavidhyalaya,Sallaghari,Bhaktapur,Nepal,7,27.673424,85.417605
+Capital College and Research Center,Koteshwor,Kathmandu,Nepal,8,27.672886,85.343658
+United Academy,Kumaripati,Lalitpur,Nepal,9,27.669885,85.320610
+Little Angel College,Hattiban,Kathmandu,Nepal,10,27.650375,85.334420
+Xavier Academy,Lazimpat,Kathmandu,Nepal,11,27.720807,85.321759
+Trinity International College,Dillibazar,Kathmandu,Nepal,12,27.703961,85.325114
+Xavier International College,Kalopul,Kathmandu,Nepal,13,27.713908,85.337114
+St. Lawrence College,Chabhil,Kathmandu,Nepal,14,27.715366,85.346811
+National School of Science,Lainchour,Kathmandu,Nepal,15,27.718124,85.314024
+Sagarmatha Multiple College,Dillibazar,Kathmandu,Nepal,16,27.703942,85.329718
+GoldenGate International College,Old Baneshwor,Kathmandu,Nepal,17,27.703685,85.340348
+Ambition Academy,Mid Baneshwor,Kathmandu,Nepal,18,27.697917,85.337510
